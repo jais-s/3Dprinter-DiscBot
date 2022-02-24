@@ -1,0 +1,14 @@
+{
+  "name": "3dprinter-discbot",
+  "version": "1.0.0",
+  "description": "3dprinter status discord bot",
+  "main": "3DPrinter notifier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jais",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
